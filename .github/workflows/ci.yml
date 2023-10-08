@@ -43,7 +43,6 @@ jobs:
       matrix:
         distro:
           - rockylinux8
-          - centos7
 
     steps:
       - name: Check out the codebase.
