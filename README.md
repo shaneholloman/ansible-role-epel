@@ -6,7 +6,8 @@ Installs the [EPEL repository](https://fedoraproject.org/wiki/EPEL) (Extra Packa
 
 ## Requirements
 
-This role only is needed/runs on RHEL and its derivatives.
+This role only is needed on RHEL and its derivatives. On other platforms this
+role does not do anything.
 
 ## Role Variables
 
